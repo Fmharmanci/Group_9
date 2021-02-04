@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Thanks a lot");
         System.out.println("\"example\" = " + "example");
         System.out.println("\"example again\" = " + "example again");
+        System.out.println("\"example again\" = " + "example again");
+        System.out.println("\"example again\" = " + "example again");
     }
 }
